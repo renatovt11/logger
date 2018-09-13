@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-13T18:09:38</date>
+  <millis>1536880178645</millis>
+  <sequence>1</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>pe.logger.core.logger.implementations.file.service.FileLoggerService</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>error 13 de septiembre de 2018Este es un mensaje de pruebaaaaa.</message>
+</record>
+</log>
